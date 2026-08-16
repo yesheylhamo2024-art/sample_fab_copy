@@ -31,8 +31,7 @@ title: About Me
 
 > _"Carpe diem because Momento mori."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I enjoy listening to music and reading books. I am a fitness enthusiast and an artistic person as I beleive.
 
 </div>
 
